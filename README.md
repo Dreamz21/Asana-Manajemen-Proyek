@@ -57,3 +57,21 @@ Hal pertama yang anda lakukan agar memiliki akun Asana ialah mendaftar akun asan
 ![image](https://github.com/Dreamz21/Manpro/assets/127491870/d6177cd9-8e71-46c3-a15a-316fcc3f9dd0)
 
 ## Membuat Proyek baru
+
+1. Untuk membuat proyek baru langkah pertama yang anda lakukan ialah dengan meng kilik icon "Plus" pada pojok kiri atas lalu pilih "proyek"
+
+![image](https://github.com/Dreamz21/Manpro/assets/127491870/6b807078-052b-4212-8e08-c666e728da99)
+
+2. Lalu pilih "Proyek kosong"
+
+![image](https://github.com/Dreamz21/Manpro/assets/127491870/8c7bbb1b-1dec-43d2-a8d1-16aa6ed92b6b)
+
+3. Lalu setelah itu anda diminta mengisikan nama proyek anda, ingin di buat publik atau private, dan memilih bentuk tampilan.
+
+![image](https://github.com/Dreamz21/Manpro/assets/127491870/63efc392-ea82-407e-a195-1eca18323b77)
+
+4. Setelah mengisikan nama proyek anda, ingin di buat publik atau private, dan memilih bentuk tampilan, anda akan dibawa ke tampilan dashboard proyek yang baru anda buat. pada tampilan ini anda dapat mengubah nama proyek mengundang teman, ada juga kolom untuk memberikan pertanyaan atau pengarahan kepada teman yang mengerjakan tugas, dan mengatur tanggal atau batasan proyek dikerjakan. pada halaman ini juga anda dapat menandai proyek sudah di kerjakan atau belum.
+
+![image](https://github.com/Dreamz21/Manpro/assets/127491870/de38e8a6-559d-4a7c-9bdb-783f5809c09f)
+
+![image](https://github.com/Dreamz21/Manpro/assets/127491870/fc4993db-2700-4422-9e87-100680144d25)
